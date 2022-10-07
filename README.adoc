@@ -1,0 +1,8 @@
+[NOTE]
+This is Work In Progress
+
+Audio (XLR) Inputs and Outputs Open Source Hardware
+project for use with libre software.
+
+Tools:
+ * KiCAD - schematics and PCB design
