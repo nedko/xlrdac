@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (comment 4 "PCBWay Project ID: 23d67c96-e95e-47c2-b902-2d359d239f41")
+    (comment 4 "https://github.com/nedko/xlrdac/")
   )
 
   (layers
