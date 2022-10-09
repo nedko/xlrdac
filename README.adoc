@@ -6,6 +6,8 @@ project for use with libre software.
 
 image:xlrdac-pcb-side.png["View of the line driver PCB", link="https://github.com/nedko/xlrdac/", width="100%"]
 
+image:xlrdac-pcb.png["KiCAD screenshot of the line driver PCB", link="https://github.com/nedko/xlrdac/", width="100%"]
+
 https://raw.githubusercontent.com/nedko/xlrdac/main/xlrdac-sch.pdf[Schematic], in PDF format.
 
 Tools:
