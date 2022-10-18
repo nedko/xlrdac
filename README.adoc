@@ -4,7 +4,7 @@ This is Work In Progress
 Audio (XLR) Inputs and Outputs Open Source Hardware
 project for use with libre software.
 
-image:xlrdac-pcb-side.png["View of the line driver PCB", link="https://github.com/nedko/xlrdac/", width="100%"]
+image:xlrdac-pcb-side.jpg["View of the line driver PCB", link="https://github.com/nedko/xlrdac/", width="100%"]
 
 image:xlrdac-pcb.png["KiCAD screenshot of the line driver PCB", link="https://github.com/nedko/xlrdac/", width="100%"]
 
