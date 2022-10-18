@@ -45,7 +45,7 @@
         "silk_text_upright": false,
         "zones": {
           "45_degree_only": false,
-          "min_clearance": 1.0
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -427,6 +427,14 @@
     [
       "e63e39d7-6ac0-4ffd-8aa3-1841a4541b55",
       ""
+    ],
+    [
+      "b540f997-cabb-4061-85a0-370b4e9dd03a",
+      "Line Driver Left"
+    ],
+    [
+      "abf797c9-e8e3-461a-ac2e-90bb5d3d180c",
+      "Line Driver Right"
     ]
   ],
   "text_variables": {}
