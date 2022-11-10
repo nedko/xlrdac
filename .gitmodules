@@ -1,0 +1,6 @@
+[submodule "quadrature-decoder"]
+	path = quadrature-decoder
+	url = ../quadrature-decoder
+[submodule "ledring"]
+	path = ledring
+	url = ../ledring
